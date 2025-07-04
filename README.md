@@ -1,4 +1,4 @@
-### A Encryption Tool to encrypt and decrypt files using the impossible-to-crack one-time pad encryption technique.
+### An Encryption Tool to encrypt and decrypt files using the impossible-to-crack one-time pad encryption technique.
 # Usage
 This is mainly intended to be a password manager, and you can run it using: `./pass_manager`
 The decrypted file is outputted in the password folder. 
